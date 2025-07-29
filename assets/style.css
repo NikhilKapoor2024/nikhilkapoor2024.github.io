@@ -1,0 +1,18 @@
+.clear_float {
+    float: none;
+}
+
+.banner {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 25px;
+    text-align: center;
+    border-style: solid;
+}
+
+.nav_main {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
