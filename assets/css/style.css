@@ -16,3 +16,12 @@
     display: inline-block;
     margin: 10px;
 }
+
+.nav_item_ia {
+    font-weight: bold;
+    padding: 7px;
+    margin: 5px;
+    float: left;
+    width: 18%;
+    border-style: solid;
+}
