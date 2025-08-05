@@ -11,10 +11,9 @@
 }
 
 .nav_main {
-    width: 100%;
-    text-align: center;
-    display: inline-block;
-    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .nav_item_ia {
